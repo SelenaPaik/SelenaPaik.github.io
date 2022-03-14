@@ -8,7 +8,7 @@ published: true
 ---
 
 Hi, I am [Selena](https://selenapaik.github.io){:target="_blank"}.
-I am a first year M.S. student in Computer and Information Science at [Purdue University](https://www.purdue.edu){:target="_blank"} advised by [Professor Sudip Vhaduri](https://sudipvhaduri.wordpress.com){:target="_blank"}. 
+I am a first year M.S. student in Computer and Information Technology at [Purdue University](https://www.purdue.edu){:target="_blank"} advised by [Professor Sudip Vhaduri](https://sudipvhaduri.wordpress.com){:target="_blank"}. 
 
 My research interests : `deep learning`, `computer vision`, `affective computing`, `healthcare infomatics`, `biometric authentication`
 
