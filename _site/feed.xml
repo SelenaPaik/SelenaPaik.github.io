@@ -1,11 +1,206 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-15T01:14:08+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Seungyeon Selena Paik</title><subtitle>Software Engineer 💻</subtitle><entry><title type="html">testing</title><link href="http://localhost:4000/blog/2020/home-they-brought/" rel="alternate" type="text/html" title="testing" /><published>2020-03-09T00:00:00+09:00</published><updated>2020-03-09T00:00:00+09:00</updated><id>http://localhost:4000/blog/2020/home-they-brought</id><content type="html" xml:base="http://localhost:4000/blog/2020/home-they-brought/"><![CDATA[<p>I don’t know how to update archive tab
-so I am just trying to update this first</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-03-15T01:33:51+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Seungyeon Selena Paik</title><subtitle>Software Engineer 💻</subtitle><entry><title type="html">Jelly Fish</title><link href="http://localhost:4000/blog/2019/jelly-fish/" rel="alternate" type="text/html" title="Jelly Fish" /><published>2019-08-19T00:00:00+09:00</published><updated>2019-08-19T00:00:00+09:00</updated><id>http://localhost:4000/blog/2019/jelly-fish</id><content type="html" xml:base="http://localhost:4000/blog/2019/jelly-fish/"><![CDATA[<p>Education format</p>]]></content><author><name></name></author><category term="education" /><summary type="html"><![CDATA[Education format]]></summary></entry><entry><title type="html">Lip Authentication Research</title><link href="http://localhost:4000/blog/2019/some-more/" rel="alternate" type="text/html" title="Lip Authentication Research" /><published>2019-07-22T00:00:00+09:00</published><updated>2019-07-22T00:00:00+09:00</updated><id>http://localhost:4000/blog/2019/some-more</id><content type="html" xml:base="http://localhost:4000/blog/2019/some-more/"><![CDATA[<p>Example modified from <a href="http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html" target="_blank">here</a>.</p>
 
-<p><a href="https://en.wikisource.org/wiki/Home_They_Brought_Her_Warrior_Dead">by Alfred Tennyson</a></p>]]></content><author><name></name></author><summary type="html"><![CDATA[I don’t know how to update archive tab so I am just trying to update this first]]></summary></entry><entry><title type="html">Jelly Fish</title><link href="http://localhost:4000/blog/2019/jelly-fish/" rel="alternate" type="text/html" title="Jelly Fish" /><published>2019-08-19T00:00:00+09:00</published><updated>2019-08-19T00:00:00+09:00</updated><id>http://localhost:4000/blog/2019/jelly-fish</id><content type="html" xml:base="http://localhost:4000/blog/2019/jelly-fish/"><![CDATA[<p>Thesis was about being kinda ok.</p>]]></content><author><name></name></author><category term="education" /><summary type="html"><![CDATA[Thesis was about being kinda ok.]]></summary></entry><entry><title type="html">Another sample post</title><link href="http://localhost:4000/blog/2019/some-more/" rel="alternate" type="text/html" title="Another sample post" /><published>2019-07-22T00:00:00+09:00</published><updated>2019-07-22T00:00:00+09:00</updated><id>http://localhost:4000/blog/2019/some-more</id><content type="html" xml:base="http://localhost:4000/blog/2019/some-more/"><![CDATA[<p>He had three simple rules by which he lived. The first was to never eat blue food. There was nothing in nature that was edible that was blue. People often asked about blueberries, but everyone knows those are actually purple. He understood it was one of the stranger rules to live by, but it had served him well thus far in the 50+ years of his life.</p>
+<h1 id="h1-header">H1 Header</h1>
 
-<p>She looked at her little girl who was about to become a teen. She tried to think back to when the girl had been younger but failed to pinpoint the exact moment when she had become a little too big to pick up and carry. It hit her all at once. She was no longer a little girl and she stood there speechless with fear, sadness, and pride all running through her at the same time.</p>
+<p>Paragraphs are separated by a blank line.</p>
 
-<p>She considered the birds to be her friends. She’d put out food for them each morning and then she’d watch as they came to the feeders to gorge themselves for the day. She wondered what they would do if something ever happened to her. Would they miss the meals she provided if she failed to put out the food one morning?</p>]]></content><author><name></name></author><summary type="html"><![CDATA[He had three simple rules by which he lived. The first was to never eat blue food. There was nothing in nature that was edible that was blue. People often asked about blueberries, but everyone knows those are actually purple. He understood it was one of the stranger rules to live by, but it had served him well thus far in the 50+ years of his life.]]></summary></entry><entry><title type="html">A sample post</title><link href="http://localhost:4000/blog/2018/atticus/" rel="alternate" type="text/html" title="A sample post" /><published>2018-02-05T00:00:00+09:00</published><updated>2018-02-05T00:00:00+09:00</updated><id>http://localhost:4000/blog/2018/atticus</id><content type="html" xml:base="http://localhost:4000/blog/2018/atticus/"><![CDATA[<p>Truly it was a great journey, and in it I met with many, whom to know was to love; but whom never could I see again; for life has not space enough; and each must do his duty to the security and well-being of the Redoubt. Yet, for all that I have set down, we travelled much, always; but there were so many millions, and so few years.</p>
+<p>2nd paragraph. <em>Italic</em>, <strong>bold</strong>, and <code class="language-plaintext highlighter-rouge">monospace</code>. Itemized lists
+look like:</p>
+
+<ul>
+  <li>this one</li>
+  <li>that one</li>
+  <li>the other one</li>
+</ul>
+
+<p>Note that — not considering the asterisk — the actual text
+content starts at 4-columns in.</p>
+
+<blockquote>
+  <p>Block quotes are
+written like so.</p>
+
+  <p>They can span multiple paragraphs,
+if you like.</p>
+</blockquote>
+
+<p>Use 3 dashes for an em-dash. Use 2 dashes for ranges (ex., “it’s all
+in chapters 12–14”). Three dots … will be converted to an ellipsis.
+Unicode is supported. ☺</p>
+
+<h2 id="h2-header">H2 Header</h2>
+
+<p>Here’s a numbered list:</p>
+
+<ol>
+  <li>first item</li>
+  <li>second item</li>
+  <li>third item</li>
+</ol>
+
+<p>Note again how the actual text starts at 4 columns in (4 characters
+from the left side). Here’s a code sample:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code># Let me re-iterate ...
+for i in 1 .. 10 { do-something(i) }
+</code></pre></div></div>
+
+<p>As you probably guessed, indented 4 spaces. By the way, instead of
+indenting the block, you can use delimited blocks, if you like:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>define foobar() {
+    print "Welcome to flavor country!";
+}
+</code></pre></div></div>
+
+<p>(which makes copying &amp; pasting easier). You can optionally mark the
+delimited block for Pandoc to syntax highlight it:</p>
+
+<div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kn">import</span> <span class="nn">time</span>
+<span class="c1"># Quick, count to ten!
+</span><span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">):</span>
+    <span class="c1"># (but not *too* quick)
+</span>    <span class="n">time</span><span class="p">.</span><span class="n">sleep</span><span class="p">(</span><span class="mf">0.5</span><span class="p">)</span>
+    <span class="k">print</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>
+</code></pre></div></div>
+
+<h3 id="an-h3-header">An h3 header</h3>
+
+<p>Now a nested list:</p>
+
+<ol>
+  <li>
+    <p>First, get these ingredients:</p>
+
+    <ul>
+      <li>carrots</li>
+      <li>celery</li>
+      <li>lentils</li>
+    </ul>
+  </li>
+  <li>
+    <p>Boil some water.</p>
+  </li>
+  <li>
+    <p>Dump everything in the pot and follow
+this algorithm:</p>
+
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>find wooden spoon
+uncover pot
+stir
+cover pot
+balance wooden spoon precariously on pot handle
+wait 10 minutes
+goto first step (or shut off burner when done)
+</code></pre></div>    </div>
+
+    <p>Do not bump wooden spoon or it will fall.</p>
+  </li>
+</ol>
+
+<p>Notice again how text always lines up on 4-space indents (including
+that last line which continues item 3 above).</p>
+
+<p>Here’s a link to <a href="http://foo.bar">a website</a>, to a <a href="local-doc.html">local
+doc</a>, and to a <a href="#an-h2-header">section heading in the current
+doc</a>. Here’s a footnote <sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>.</p>
+
+<p>Tables can look like this:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: center">Header 1</th>
+      <th style="text-align: center">Header 2</th>
+      <th style="text-align: center">Header 3</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center">data1a</td>
+      <td style="text-align: center">Data is longer than header</td>
+      <td style="text-align: center">1</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">d1b</td>
+      <td style="text-align: center">add a cell</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">lorem</td>
+      <td style="text-align: center">ipsum</td>
+      <td style="text-align: center">3</td>
+    </tr>
+    <tr>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">empty outside cells</td>
+      <td style="text-align: center"> </td>
+    </tr>
+    <tr>
+      <td style="text-align: center">skip</td>
+      <td style="text-align: center"> </td>
+      <td style="text-align: center">5</td>
+    </tr>
+    <tr>
+      <td style="text-align: center">six</td>
+      <td style="text-align: center">Morbi purus</td>
+      <td style="text-align: center">6</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>A horizontal rule follows.</p>
+
+<hr />
+
+<p>Here’s a definition list:</p>
+
+<dl>
+  <dt>apples</dt>
+  <dd>Good for making applesauce.</dd>
+  <dt>oranges</dt>
+  <dd>Citrus!</dd>
+  <dt>tomatoes</dt>
+  <dd>There’s no “e” in tomatoe.</dd>
+</dl>
+
+<p>Again, text is indented 4 spaces. (Put a blank line between each
+term and  its definition to spread things out more.)</p>
+
+<p>Here’s a “line block” (note how whitespace is honored):</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>Line one</td>
+    </tr>
+    <tr>
+      <td>Line too</td>
+    </tr>
+    <tr>
+      <td>Line tree</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>and images can be specified like so:</p>
+
+<p><img src="https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=500&amp;h=500&amp;fit=crop" alt="example image" title="An exemplary image" /></p>
+
+<p>Inline math equation: $\omega = d\phi / dt$. Display
+math should get its own line like so:</p>
+
+\[I = \int \rho R^{2} dV\]
+
+<p>And note that you can backslash-escape any punctuation characters
+which you wish to be displayed literally, ex.: `foo`, *bar*, etc.</p>
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Some footnote text. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>]]></content><author><name></name></author><summary type="html"><![CDATA[Example modified from here.]]></summary></entry><entry><title type="html">A sample post</title><link href="http://localhost:4000/blog/2018/atticus/" rel="alternate" type="text/html" title="A sample post" /><published>2018-02-05T00:00:00+09:00</published><updated>2018-02-05T00:00:00+09:00</updated><id>http://localhost:4000/blog/2018/atticus</id><content type="html" xml:base="http://localhost:4000/blog/2018/atticus/"><![CDATA[<p>Truly it was a great journey, and in it I met with many, whom to know was to love; but whom never could I see again; for life has not space enough; and each must do his duty to the security and well-being of the Redoubt. Yet, for all that I have set down, we travelled much, always; but there were so many millions, and so few years.</p>
 
 <p>Atticus said to Jem one day, “I’d rather you shot at tin cans in the backyard, but I know you’ll go after birds. Shoot all the blue jays you want, if you can hit ‘em, but remember it’s a sin to kill a mockingbird.” That was the only time I ever heard Atticus say it was a sin to do something, and I asked Miss Maudie about it. “Your father’s right,” she said. “Mockingbirds don’t do one thing except make music for us to enjoy. They don’t eat up people’s gardens, don’t nest in corn cribs, they don’t do one thing but sing their hearts out for us. That’s why it’s a sin to kill a mockingbird.</p>
 
@@ -43,45 +238,4 @@ so I am just trying to update this first</p>
 
 <p>“My good Utterson,” said the doctor, “this is very good of you, this is downright good of you, and I cannot find words to thank you in. I believe you fully; I would trust you before any man alive, ay, before myself, if I could make the choice; but indeed it isn’t what you fancy; it is not as bad as that; and just to put your good heart at rest, I will tell you one thing: the moment I choose, I can be rid of Mr. Hyde. I give you my hand upon that; and I thank you again and again; and I will just add one little word, Utterson, that I’m sure you’ll take in good part: this is a private matter, and I beg of you to let it sleep.”</p>
 
-<p>Utterson reflected a little, looking in the fire.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[“My will? Yes, certainly, I know that,” said the doctor, a trifle sharply. “You have told me so.”]]></summary></entry><entry><title type="html">Using GitHub to Create and Host a Personal Website</title><link href="http://localhost:4000/blog/2014/using-github-to-create-and-host-a-personal-website/" rel="alternate" type="text/html" title="Using GitHub to Create and Host a Personal Website" /><published>2014-05-03T00:00:00+09:00</published><updated>2014-05-03T00:00:00+09:00</updated><id>http://localhost:4000/blog/2014/using-github-to-create-and-host-a-personal-website</id><content type="html" xml:base="http://localhost:4000/blog/2014/using-github-to-create-and-host-a-personal-website/"><![CDATA[<p>This is an overdue note about my switch to using GitHub and Jekyll for this website.</p>
-
-<p>After 10+ years using WordPress I finally made the switch to GitHub Pages (confession: I still use WordPress for certain projects at work). My switch largely centered around this rant that played itself out quite frequently in my head:</p>
-
-<p>When you want something simple, having a WordPress site often comes with a lot of other things: a web hosting plan, updating plugins, monitoring auto-updates so your site’s template and functionality don’t break, a MySQL database, dealing with being a target for hackers, a lot of clicking around and fussing with settings, hacking Thesis, and on and on. <!-- flesh the previous sentence out with links --> For a personal website that features just few pages, a CV, and maybe a place to write blog posts and link to your social media accounts and departmental web pages – or just experiment around with the awesomeness of HTML5 <!-- flesh this out with links to codepen stuff or --> and the amazing things you can do with client side scripting <!-- ahem, more links -->, WordPress is bloated.</p>
-
-<p>Do I really need to make a database call to serve an About page with less than 500 words on it? No. Do I want a bunch of third-party scripts from whatever plugin author(s) just to have social sharing tools? No. Do I want to have to hack PHP in an existing WordPress template to adjust the banner for my logo or to just simplify the user experience? No. I still want to be able to get up and running in less than five minutes, but can’t it be a little lighter?</p>
-
-<p>So I made a wishlist of the things I wanted for a personal website:</p>
-
-<ul>
-  <li>simplicity</li>
-  <li>good performance and reliability</li>
-  <li>no databases</li>
-  <li>hosting to be free or really cheap</li>
-  <li>a custom domain</li>
-  <li>the ability to work on my site from anywhere if needed</li>
-  <li>to use open source tools supported by an active development community</li>
-  <li>to get up and running quickly</li>
-  <li>to have version control on my website, preferably Git</li>
-  <li>to be able to share my code so others can easily re-use it</li>
-</ul>
-
-<p><a href="http://staticgen.com/">There are a lot of lightweight CMS options out there</a>, but I fell for the GitHub + Jekyll toolchain. It’s well known and now pretty established, and the partnership it has developed with Jekyll developers (it’s based in Ruby) and its use of Markdown to separate content from markup just seemed to click with me as a digital publisher. It may not be for everybody, but after an afternoon playing around with and getting over the learning curve, I think it can be for a lot more than developers.</p>
-
-<p>That’s why after building my site from scratch (along with the help of Bootstrap), I’ve finally taken it a step further and created a <a href="/guides/github-pages/" title="Creating and Hosting a Personal Site on GitHub">beginner’s guide to getting started building and hosting a personal website and blog with GitHub Pages and Jekyll</a>. It is very step-by-step. The goal is to make GitHub and Jekyll more accessible to a wider audience interested in an alternative to WordPress. It even refactors code to teach you how Jekyll templates work. And I should note, it was created to accompany a workshop I gave during <a href="http://ttc.iss.lsa.umich.edu/ttc/enriching-scholarship/">University of Michigan’s 2014 Enriching Scholarship Conference</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[This is an overdue note about my switch to using GitHub and Jekyll for this website.]]></summary></entry><entry><title type="html">The New Academic Librarian</title><link href="http://localhost:4000/blog/2014/the-new-academic-librarian/" rel="alternate" type="text/html" title="The New Academic Librarian" /><published>2014-01-23T00:00:00+09:00</published><updated>2014-01-23T00:00:00+09:00</updated><id>http://localhost:4000/blog/2014/the-new-academic-librarian</id><content type="html" xml:base="http://localhost:4000/blog/2014/the-new-academic-librarian/"><![CDATA[<p>After what seemed to be a never-ending publication process, the book <a href="http://www.amazon.com/The-New-Academic-Librarian-Responsibilities/dp/0786471530"><em>The New Academic Librarian: Essays on Changing Roles and Responsibilities</em></a> – edited by Wayne State University librarian <a href="http://www.rebecapeacock.com/">Rebeca Peacock</a> and the library’s associate director for marketing, Jill Wurm – is finally published and available. After skimming through the table of contents, this will no doubt be a valuable and necessary read for library and information science students interested in careers at an academic library; the essays featured in the volume present a very current inside look at the functions and responsibilities of academic librarians, especially in regards to how they interact with, use, play with, and rely on technology in their work.</p>
-
-<p>I’m selfishly excited about this new book because I was fortunate enough to contribute a chapter about my experiences and reflections as a digital projects librarian. In addition to reflecting on what I’ve learned, I looked at over 80 job descriptions for “digital projects librarians” (or variantions of that title) and found the job descriptions matched my own hunches and experiences; the digital projects librarian is very much an amalgam of the traditional librarian and the fast moving, ever changing world of web development. Here’s the abstract to my chapter, “Looking Under the Hood: A View of the Digital Projects Librarian in the Academic Library”:</p>
-
-<blockquote>
-  <p>Despite the fact that digital libraries have been with the library profession for the last two decades, relatively little has been written about digital projects librarianship from a professional standpoint. Digitization of text and images, the creation of SGML and XML encoded texts, digital preservation, networked information, and large scale database searching have been with the library profession since the early 1990s. Less than an emerging role, it is more accurate to describe digital projects librarianship as an evolving role in the academic library. Over the last 20 years, this role has expanded to encompass a wide range of skills and responsibilities from web design and development to copyright and project management. Successful digital projects librarians are interested and unafraid to look underneath the hood of the web to see what powers it and makes things happen. As such, digital projects librarians should be experienced and versed in the traditional skill sets of their predecessors, while at the same time excited to adapt and learn new technologies by drawing from a very deep and wide pool of skills in the professional web design and web development communities. In addition, as academic libraries and institutions continue to embrace digital technologies to provide relevant services for faculty, students, and staff, the roles and projects of a digital projects librarian continue to expand well beyond digitization to involve library instruction, digital publishing, software and application development, user interface design, digital preservation, and data curation. To help you form a complete picture, this chapter will discuss a range of digital projects job descriptions, digital projects at academic libraries, the components underpinning many library digital collections, and also provide resources to help the reader build their digital project skill set and to illustrate emerging trends for this exciting and evolving form of librarianship.</p>
-</blockquote>
-
-<p>Congratulations to Rebeca and Jill and all the contributing authors to this much needed understanding of academic librarianship in the 21st century!</p>]]></content><author><name></name></author><category term="default" /><summary type="html"><![CDATA[After what seemed to be a never-ending publication process, the book The New Academic Librarian: Essays on Changing Roles and Responsibilities – edited by Wayne State University librarian Rebeca Peacock and the library’s associate director for marketing, Jill Wurm – is finally published and available. After skimming through the table of contents, this will no doubt be a valuable and necessary read for library and information science students interested in careers at an academic library; the essays featured in the volume present a very current inside look at the functions and responsibilities of academic librarians, especially in regards to how they interact with, use, play with, and rely on technology in their work.]]></summary></entry><entry><title type="html">Swatches. A Place to Think About Color on the Web</title><link href="http://localhost:4000/blog/2013/swatches-a-place-to-think-about-color-on-the-web/" rel="alternate" type="text/html" title="Swatches. A Place to Think About Color on the Web" /><published>2013-12-12T00:00:00+09:00</published><updated>2013-12-12T00:00:00+09:00</updated><id>http://localhost:4000/blog/2013/swatches-a-place-to-think-about-color-on-the-web</id><content type="html" xml:base="http://localhost:4000/blog/2013/swatches-a-place-to-think-about-color-on-the-web/"><![CDATA[<p>Designers find inspiration and motivation from other designers. Everyday on the web we see things that are beautifully made by our peers – work that spark ideas for new projects or teaches us a new technique or technology. Recently, I’ve been trying to pay better attention to designers’ use of color on the web. I’m also working to combat my forgetfulness and feed my obsessive need to cata(log) aspects of my life in a really straightforward manner. While I’m already familiar with great services like Adobe Kuler’s <a href="https://kuler.adobe.com/">Wheel</a> and <a href="https://kuler.adobe.com/explore/">Explore</a> tools and <a href="http://colorschemedesigner.com/">Color Scheme Designer</a>, I’m interested in something much simpler, cleaner, and straightforward – HTML on a page with hex color values and ordered in reverse chronological order.</p>
-
-<p>Enter <a href="http://jmcglone.com/swatches"><em>Swatches</em></a>, a simple way to track sets of hex color values and also give attribution to those designers or sources that help me better understand color and how colors work together in design. Interested in how this works? <a href="http://jsfiddle.net/jmcglone/hKXtF/">See it at jsfiddle</a>.</p>
-
-<p>In getting here, I’ve been heavily influenced by <a href="http://dribbble.com">dribbble’s</a> design approach to color sets, as well as the attention it gives to color in the designs its users post and share in that space. But I’d like to be able to track sets of colors I find that work really well, as well as the hex color values that make up those sets.</p>
-
-<p>In the future, I’d like to develop a way to make this much more dynamic or work better with Jekyll but also a tool or service that others can utilize. In the meantime, I hope this is useful to people and inspires others to think more about color and using color on the web.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Designers find inspiration and motivation from other designers. Everyday on the web we see things that are beautifully made by our peers – work that spark ideas for new projects or teaches us a new technique or technology. Recently, I’ve been trying to pay better attention to designers’ use of color on the web. I’m also working to combat my forgetfulness and feed my obsessive need to cata(log) aspects of my life in a really straightforward manner. While I’m already familiar with great services like Adobe Kuler’s Wheel and Explore tools and Color Scheme Designer, I’m interested in something much simpler, cleaner, and straightforward – HTML on a page with hex color values and ordered in reverse chronological order.]]></summary></entry><entry><title type="html">Building Your Online Academic Identity</title><link href="http://localhost:4000/blog/2013/building-your-online-academic-identity/" rel="alternate" type="text/html" title="Building Your Online Academic Identity" /><published>2013-10-08T00:00:00+09:00</published><updated>2013-10-08T00:00:00+09:00</updated><id>http://localhost:4000/blog/2013/building-your-online-academic-identity</id><content type="html" xml:base="http://localhost:4000/blog/2013/building-your-online-academic-identity/"><![CDATA[<p>Today I gave a workshop as a part of <a href="http://www.lsa.umich.edu/humanities/">University of Michigan’s Institute for the Humanities</a> Publishing Practice Series aimed at faculty and graduate students looking to build-up their online identity. There’s already been great work done by the writers at <a href="http://chronicle.com/blogs/profhacker/creating-and-maintaining-a-professional-presence-online-a-roundup-and-reflection/43030">ProfHacker</a> on this topic, insightful tips over at <a href="http://www.educause.edu/ero/article/intentional-web-presence-10-seo-strategies-every-academic-needs-know">EDUCAUSE</a>, and an article published in <a href="http://firstmonday.org/ojs/index.php/fm/article/view/3969/3292"><em>First Monday</em></a> studying and classifying the types of online academic personas folks are starting to create for themselves. This workshop tried to bring all of that together and emphasize that building your online persona is really just SEO for your name.</p>
-
-<p>Since the previous folks were kind enough to share their thoughts with the world, I’ve kept that spirit and made my notes available – you can check them out at <a href="http://goo.gl/Hn3Cc9">http://goo.gl/Hn3Cc9</a>.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Today I gave a workshop as a part of University of Michigan’s Institute for the Humanities Publishing Practice Series aimed at faculty and graduate students looking to build-up their online identity. There’s already been great work done by the writers at ProfHacker on this topic, insightful tips over at EDUCAUSE, and an article published in First Monday studying and classifying the types of online academic personas folks are starting to create for themselves. This workshop tried to bring all of that together and emphasize that building your online persona is really just SEO for your name.]]></summary></entry></feed>
+<p>Utterson reflected a little, looking in the fire.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[“My will? Yes, certainly, I know that,” said the doctor, a trifle sharply. “You have told me so.”]]></summary></entry></feed>
