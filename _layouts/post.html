@@ -1,10 +1,11 @@
 ---
 layout: default
 ---
-<h1 class="post-headline">{{page.title}}</h1>
-<p class="meta"><small>{{page.date | date: '%B %d, %Y'}}</small></p>
 
-{{content}}
+<div class="post">
+  <h1 class="section-title">{{ page.title }}</h1>
+  {{ content }}
+</div>
 
 <!-- Comments only for posts -->
 {% if page.path contains '_posts' %}
@@ -12,3 +13,5 @@ layout: default
         {% include disqus.html %}
     {% endif %}
 {% endif %}
+
+

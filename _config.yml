@@ -1,6 +1,6 @@
 ### your site title here
 
-title: Selena Seungyeon Paik
+title: Seungyeon Selena Paik
 description: Software Engineer 💻 
 remote_theme : jitinnair1/gradfolio
 
@@ -21,8 +21,8 @@ paginate_path: /blog/page:num/
 # Social media links in footer
 facebook: "#"
 twitter: "#"
-linkedin: "#"
-github: "#"
+linkedin: "#www.linkedin.com/in/seungyeonpaik"
+github: "https://selenapaik.github.io/"
 researchgate: "#"
 orcid: "#"
 
