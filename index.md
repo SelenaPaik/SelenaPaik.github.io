@@ -7,8 +7,11 @@ profile:
 published: true
 ---
 
-Welcome to [Selena](https://selenapaik.github.io){:target="_blank"}'s Website!!! Customizing ~~ing~ Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+Hi, I am [Selena](https://selenapaik.github.io){:target="_blank"}.
+I am a first year M.S. student in Computer and Information Science at [Purdue University](https://www.purdue.edu){:target="_blank"} advised by [Professor Sudip Vhaduri](https://sudipvhaduri.wordpress.com){:target="_blank"}. 
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+My research interests : `deep learning`, `computer vision`, `affective computing`, `healthcare infomatics`, `biometric authentication`
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+I am deeply interested in human emotion & biometric data analysis and deep learning. I like to develop tools that help machines easily understand and analyze human emotions and biometric information to create new values. I employ a variety of methodologies and frameworks in my research, drawing on computer vision and deep learning.
+
+I studied computer science and engineering at [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do){:target="_blank"}

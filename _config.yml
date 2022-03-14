@@ -6,7 +6,7 @@ remote_theme : jitinnair1/gradfolio
 
 baseurl: #/gradfolio #name of GitHub repository
 url: https://selenapaik.github.io/ #custom url to be used instead of GitHub repository
-email: ip9911@gmail.com
+email: paiks@purdue.edu
 
 
 highlighter: rouge
