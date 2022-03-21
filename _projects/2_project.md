@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A longer Project Title
-description: short project description
+title: Wearable Health-Check System 
+description: Real-time biological state monitoring application for dementia patients
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.

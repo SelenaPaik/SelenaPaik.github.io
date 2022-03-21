@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project 5
-description: another project
+title: Real-time AR App
+description:  Android application that detects image targets and shows objects on targets
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.

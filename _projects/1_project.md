@@ -1,8 +1,11 @@
 ---
 layout: post
-title: Short Project
-description: description of the short project which is long enough
+title: Fake Video Detection System
+description: System detects videos composed only of static images or text
 ---
+
+Established a system that detects videos composed only of static images or text using the frame difference method
+
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
 H1 Header

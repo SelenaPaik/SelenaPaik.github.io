@@ -12,6 +12,6 @@ I am a first year M.S. student in Computer and Information Technology at [Purdue
 
 My research interests : `deep learning`, `computer vision`, `affective computing`, `healthcare infomatics`, `biometric authentication`
 
-I am deeply interested in human emotion & biometric data analysis and deep learning. I like to develop tools that help machines easily understand and analyze human emotions and biometric information to create new values. I employ a variety of methodologies and frameworks in my research, drawing on computer vision and deep learning.
+I am deeply interested in human emotion & biometric data analysis and deep learning. I like to develop tools that help machines easily understand and analyze human emotions and biometric information. I employ a variety of methodologies and frameworks in my research, drawing on computer vision and deep learning.
 
 I studied Computer Science and Engineering at [Ewha Womans University](https://www.ewha.ac.kr/ewhaen/index.do){:target="_blank"}.

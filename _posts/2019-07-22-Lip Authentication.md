@@ -3,6 +3,8 @@ layout: post
 title:  "Lip Authentication Research"
 ---
 
+Coming Soon
+
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
 H1 Header
